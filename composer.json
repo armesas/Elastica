@@ -1,5 +1,5 @@
 {
-    "name": "ruflin/elastica",
+    "name": "armesas/elastica",
     "description": "Elasticsearch Client",
     "keywords": ["search","client"],
     "homepage": "http://elastica.io/",
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Nicolas Ruflin",
-            "homepage": "http://ruflin.com/"
+            "name": "Andrew Armes",
+            "homepage": "http://ameronix.com/"
         }
     ],
     "require": {
